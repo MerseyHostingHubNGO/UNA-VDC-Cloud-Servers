@@ -1,9 +1,9 @@
 ![Packages](https://github.com/MerseyHostingHubNGO/UNA-VDC-Cloud-Servers/blob/main/Images/UNA%20VDC%20Servers%20GitHub%20Cover.png)
 
-# UNA VDC Servers
-Development of our UNA VDC Servers. 
+# UNA VDC Cloud Servers
+Development of our UNA VDC Cloud Servers. 
 
-### What are UNA VDC Servers?
+### What are UNA VDC Cloud Servers?
 
 Let's brake it down.
 
