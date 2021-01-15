@@ -19,3 +19,7 @@ This Repo is for the development of our UNA VDC Packages, and due to the fact we
 Not just that we plan on integrating our Billing > Server Management > UNA Management > UNA App Management as a work-flow allowing simple management of our Packages.
 
 So this Repo is for the development of our Packages and their integration with UNA.
+
+# Discord Development Chat #
+
+[![Discord](https://github.com/MerseyHostingHub/UNA-VDC-Servers/blob/main/Images/discord/Discord-Logo+Wordmark-Color.png)](https://discord.gg/HpnSmhqWKf)
